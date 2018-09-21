@@ -1,0 +1,51 @@
+_repo: Bee-The-Princess-of-the-Dwarfs_53771
+_version: 0.0.1
+alternative_title: Abeille. English
+contributor:
+  illustrator:
+    agent_name: Robinson, Charles
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31464'
+    url: http://www.gutenberg.org/2009/agents/31464
+  translator:
+    agent_name: Wright, Peter
+    gutenberg_agent_id: '47528'
+    url: http://www.gutenberg.org/2009/agents/47528
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2016-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Tailors -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Dwarfs -- Juvenile fiction'
+- !lcsh 'Folklore -- France'
+- !lcc 'PQ'
+- GITenberg
+title: 'Bee: The Princess of the Dwarfs'
+url: http://www.gutenberg.org/ebooks/53771
