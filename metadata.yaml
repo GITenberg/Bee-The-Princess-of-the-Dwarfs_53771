@@ -12,6 +12,9 @@ contributor:
     agent_name: Wright, Peter
     gutenberg_agent_id: '47528'
     url: http://www.gutenberg.org/2009/agents/47528
+covers:
+- cover_type: archival
+  image_path: 53771-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: France, Anatole
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53771#Bee-The-Princess-of-the-Dwarfs
 gutenberg_issued: '2016-12-19'
 gutenberg_type: Text
 identifiers:
